@@ -112,8 +112,11 @@
   }
   .footer-cont:nth-child(5)>.social-links{
     color: #fdfdfd;
-    border: 1px solid;
     margin-left: 200px;
+  }
+  .social-links>a{
+    font-size: 20px;
+    margin-right: 20px;
   }
   .double-fade-line::before,
   .double-fade-line::after{
